@@ -23,7 +23,7 @@
 <br >
 <h2 align="center">Connect with me:</h2>
 
-<p align="center" background="white">
+<p align="center" style="background-color:white;">
 <a href="https://twitter.com/maumercado" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maumercado" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/mauromercado" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mauromercado" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/590100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="590100" height="30" width="30" /></a>
