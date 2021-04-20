@@ -20,12 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maumercado&layout=compact&hide=html" alt="maumercado" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maumercado&show_icons=true" alt="maumercado" /></p>
 
-<br >
-<h2 align="center">Connect with me:</h2>
-
-<p align="center" style="background-color:white;">
-<a href="https://twitter.com/maumercado" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maumercado" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/mauromercado" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mauromercado" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/590100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="590100" height="30" width="30" /></a>
-<a href="https://instagram.com/maumercado" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maumercado" height="30" width="30" /></a>
-</p>
