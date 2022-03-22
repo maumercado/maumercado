@@ -14,8 +14,6 @@
 
 - 😄 Pronouns: Him/He
 
-- 🏢 Now part of [Diligent](https://www.wegalvanize.com/).
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maumercado&layout=compact&hide=html" alt="maumercado" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maumercado&show_icons=true" alt="maumercado" /></p>
 
