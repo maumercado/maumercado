@@ -4,9 +4,11 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 🤓 I'm an eternal student
+- 🤓 Eternal student, always be learning.
 
 - 👨‍💻 All of my projects are available at [github.com/maumercado](github.com/maumercado)
+
+- 📖 I have a blog where I write about stuff I've learned or am learning, hosted in notion [codigos.notion.site](https://codigos.notion.site/) 
 
 - 💬 Ask me about **NodeJS, functional programming, testing, and javascript in general.**
 
