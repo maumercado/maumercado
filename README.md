@@ -6,9 +6,9 @@
 
 - 🤓 Eternal student, always be learning.
 
-- 👨‍💻 All of my projects are available at [github.com/maumercado](https://github.com/maumercado?tab=repositories)
+- 👨‍💻 All of my projects are available at [github.com/maumercado](https://github.com/maumercado?tab=repositories) and [github.com/codigo](https://github.com/orgs/codigo/repositories)
 
-- 📖 I have a blog where I write about stuff I've learned or am learning, hosted in notion [codigos.notion.site](https://codigos.notion.site/) 
+- 📖 I have a blog where I write about stuff I've learned or am learning, hosted in notion [https://codigo.sh](https://codigo.sh/)
 
 - 💬 Ask me about **NodeJS, functional programming, testing, and javascript in general.**
 
