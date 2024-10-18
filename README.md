@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mauricio Mercado</h1>
-<h2 align="center">A software developer from Barranquilla - Colombia 🇨🇴, living in Canada 🇨🇦<br /></h2>
+<h2 align="center">A software developer from Barranquilla - Colombia 🇨🇴, living in Canada 🇨🇦</h2>
 
 
 
