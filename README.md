@@ -1,22 +1,34 @@
-<h1 align="center">Hi 👋, I'm Mauricio Mercado</h1>
-<h2 align="center">A software developer from Barranquilla - Colombia 🇨🇴, living in Canada 🇨🇦</h2>
+# Hi there 👋, I'm Mauricio Mercado
 
+Senior Software Engineer con 14+ años de experiencia trabajando en tecnologías como javascript, typescript, sql, rust, python con frameworks como fastify, hono, svelte, express, django en plataformas cloud como aws, gcp, cloudflare en empresas como Coursedog, Telus, Humanapi, built a service that processed more than 1M+ daily interactions., created a microservice that processed more than 10k+ media uploads., increased test coverage 60% to 95%, reduced user query time by 40%, reduced external API calls by 50%, reduced data fetching errors by 80%, cut infrastructure costs by 25%.
 
+## 🚀 About Me
+- 🔭 I'm currently working at **Coursedog** as a developer
+- 🌱 I'm continuously learning and improving my skills
+- 👯 I'm looking to collaborate on interesting projects
+- 💬 Ask me about JavaScript, Python, Rust
+- 📫 How to reach me: **maumercado@gmail.com**
+- 📍 Located in: **Canada, British Columbia, Burnaby**
 
-- 👯 I’m looking to collaborate on **open source projects**
+## 🛠️ Tech Stack
 
-- 🤓 Eternal student, always be learning.
+![JavaScript](https://img.shields.io/badge/-JavaScript-007ACC?style=flat-square&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-007ACC?style=flat-square&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-007ACC?style=flat-square&logoColor=white)
 
-- 👨‍💻 All of my projects are available at [github.com/maumercado](https://github.com/maumercado?tab=repositories) and [github.com/codigo](https://github.com/orgs/codigo/repositories)
+## 📊 GitHub Stats
 
-- 📖 I have a blog where I write about stuff I've learned or am learning, hosted in notion [https://codigo.sh](https://codigo.sh/)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maumercado&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-- 💬 Ask me about **NodeJS, functional programming, testing, and javascript in general.**
+![GitHub Streak](https://streak-stats.demolab.com/?user=maumercado&theme=radical&hide_border=true)
 
-- ⚡ Fun fact **I used to be a kitesurf 🏄‍♀️ instructor**, [IKO](https://www.ikont.com/) certified
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maumercado&layout=compact&theme=radical&hide_border=true)
 
-- 😄 Pronouns: Him/He
+## 📫 Connect with me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maumercado&layout=compact&hide=html" alt="maumercado" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maumercado&show_icons=true" alt="maumercado" /></p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mauromercado)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maumercado@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/maumercado)
 
+---
+⭐️ From [maumercado](https://github.com/maumercado)
