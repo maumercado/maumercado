@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mauricio Mercado
 
-Senior Software Engineer con 14+ años de experiencia trabajando en tecnologías como javascript, typescript, sql, rust, python con frameworks como fastify, hono, svelte, express, django en plataformas cloud como aws, gcp, cloudflare en empresas como Coursedog, Telus, Humanapi, built a service that processed more than 1M+ daily interactions., created a microservice that processed more than 10k+ media uploads., increased test coverage 60% to 95%, reduced user query time by 40%, reduced external API calls by 50%, reduced data fetching errors by 80%, cut infrastructure costs by 25%.
+Senior Software Engineer with 14+ years of experience working with technologies such as JavaScript, TypeScript, SQL, Rust, Python with frameworks like Fastify, Hono, Svelte, Express, Django on cloud platforms such as AWS, GCP, Cloudflare at companies like Coursedog, Telus, HumanAPI. Built a service that processed more than 1M+ daily interactions, created a microservice that processed more than 10k+ media uploads, increased test coverage from 60% to 95%, reduced user query time by 40%, reduced external API calls by 50%, reduced data fetching errors by 80%, cut infrastructure costs by 25%.
 
 ## 🚀 About Me
 - 🔭 I'm currently working at **Coursedog** as a developer
