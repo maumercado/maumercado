@@ -18,11 +18,11 @@ Senior Software Engineer with 14+ years of experience working with technologies 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maumercado&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://helio-github-stats.vercel.app/api?username=maumercado&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=maumercado&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maumercado&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://helio-github-stats.vercel.app/api/top-langs/?username=maumercado&layout=compact&theme=radical&hide_border=true)
 
 ## 📫 Connect with me
 
